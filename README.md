@@ -137,3 +137,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fadenvt%2Flaravel-coreui-vue.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fadenvt%2Flaravel-coreui-vue?ref=badge_large)# repository-pattern-laravel
+# repository-pattern-laravel
